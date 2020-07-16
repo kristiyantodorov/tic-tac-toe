@@ -1,3 +1,3 @@
 # tic-tac-toe
 
-A tic-tac-toe game with AI opponent which never loses.
+A tic-tac-toe game versus AI opponent which never loses.
